@@ -9,6 +9,7 @@ public class Cuve extends Captage implements IVolume {
         largeurCuve = uneLargeur;
         longueurCuve = uneLongueur;
 
+
     }
 
     @Override
